@@ -69,25 +69,71 @@ My engineering interests revolve around building products that solve real proble
 *"Build thoughtfully. Ship confidently. Keep improving."*
 
 </div>
+
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=js,ts,py,java,html,css&theme=dark" />
+### 💻 Languages
 
-**Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux&theme=dark" />
 
-**Backend & Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,supabase,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,ts,js,python,html,css,sql&theme=dark" />
 
-**Cloud, DevOps & Tooling**
+<br/><br/>
+
+### 🎨 Frontend
+
 <br/>
-<img src="https://skillicons.dev/icons?i=cloudflare,docker,git,github,vercel,postman,vscode&theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux,vite&theme=dark" />
+
+<br/><br/>
+
+### ⚙️ Backend & APIs
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,prisma&theme=dark" />
+
+<br/><br/>
+
+### 🗄️ Databases & ORM
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,firebase,redis&theme=dark" />
+
+<br/><br/>
+
+### ☁️ Cloud • DevOps • Deployment
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=docker,cloudflare,vercel,githubactions,git,github,linux&theme=dark" />
+
+<br/><br/>
+
+### 🛠️ Developer Tools
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,npm,bash&theme=dark" />
+
+</div>
+
+---
+
+<div align="center">
+
+| 💻 **Software Engineering** | 🤖 **AI Engineering** | ☁️ **Deployment** |
+|:---------------------------:|:---------------------:|:-----------------:|
+| Full Stack Development | LLM Integration | Docker |
+| REST APIs | Prompt Engineering | GitHub Actions |
+| Authentication | RAG Pipelines | Vercel |
+| Database Design | AI Automation | Cloudflare |
+| System Design | API Integrations | Linux |
 
 </div>
 
