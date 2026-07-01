@@ -396,7 +396,6 @@ Progressed through multiple leadership roles in **DevComm**, the official techni
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulmint&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
 
 </div>
----
 
 
 
