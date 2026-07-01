@@ -25,7 +25,7 @@
 
 ---
 
-##  About Me
+## 🪐 About Me
 
 <div align="center">
 
@@ -71,7 +71,7 @@ My engineering interests revolve around building products that solve real proble
 </div>
 
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -139,7 +139,7 @@ My engineering interests revolve around building products that solve real proble
 
 ---
 
-##  AI & Machine Learning
+## 🤖 AI & Machine Learning
 
 <div align="center">
 
@@ -160,7 +160,7 @@ My engineering interests revolve around building products that solve real proble
 
 ---
 
-# Featured Projects
+# 🚀Featured Projects
 
 <details open>
 <summary><b>VRIFACTICA — AI-Powered Fact Verification Platform</b></summary>
@@ -282,7 +282,7 @@ Designed and implemented a production-ready Adobe Express Add-on within a 24-hou
 
 ---
 
-# Experience
+#💼 Experience
 
 <details open>
 <summary><b>Full Stack Development Intern • ASSORTS Machine Tools Pvt. Ltd.</b></summary>
@@ -381,19 +381,7 @@ Progressed through multiple leadership roles in **DevComm**, the official techni
 
 </div>
 
----
-## 💻 Coding Profiles
 
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-2a2a3d?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/YOUR_USERNAME)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2a2a3d?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46)](https://www.geeksforgeeks.org/user/YOUR_USERNAME)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2a2a3d?style=for-the-badge&logo=hackerrank&logoColor=00EA64)](https://www.hackerrank.com/YOUR_USERNAME)
-[![CodeChef](https://img.shields.io/badge/CodeChef-2a2a3d?style=for-the-badge&logo=codechef&logoColor=5B4638)](https://www.codechef.com/users/YOUR_USERNAME)
-
-</div>
-
----
 
 ## 📊 GitHub Analytics
 
