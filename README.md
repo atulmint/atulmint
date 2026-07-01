@@ -387,26 +387,18 @@ Progressed through multiple leadership roles in **DevComm**, the official techni
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=atulmint&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=e9d5ff&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=atulmint&theme=radical&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" width="49%"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=atulmint&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=atulmint&theme=github-dark-blue&hide_border=true"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulmint&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e9d5ff" width="49%"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulmint&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
 
 </div>
-
 ---
 
-## 🏅 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=atulmint&theme=radical&no-frame=true&column=7&margin-w=10&margin-h=10" />
-
-</div>
-
----
 
 ## 📈 Contribution Activity
 
