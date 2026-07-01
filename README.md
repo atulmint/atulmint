@@ -8,9 +8,9 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atul-kumar-584470272)
-[![Email](https://img.shields.io/badge/Email-5b21b6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-5b21b6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atulmint1502@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-4c1d95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atulmint)
 
 <br/>
@@ -29,12 +29,33 @@
 
 <img align="right" width="240" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=A78BFA&vCenter=true&width=1&lines=%3C%2F%3E" />
 
-I'm a **Software Engineer** focused on building full-stack, AI-native products — from data ingestion pipelines and LLM orchestration to production-ready, deployed web applications. My recent work centers on **Generative AI systems**: fact-verification pipelines, agentic tools, and retrieval-augmented workflows that combine LLMs with live web/data sources.
+## 🪐 About Me
 
-- 🔭 Currently building **VRIFACTICA** — an anonymous PDF fact-checking engine that extracts claims, verifies them against live web sources, and returns sourced verdicts.
-- 🧠 Strong focus on **AI/ML engineering**: LLM integration, prompt orchestration, retrieval pipelines, and concurrency-safe inference systems.
-- 🏗️ Full-stack builder across **modern SSR frameworks, serverless/edge deployment, and cloud-native databases**.
-- ⚙️ Product-engineering mindset — I care as much about shipping a stable, deployed URL as I do about the underlying architecture.
+I build software **end-to-end**—from designing databases and backend APIs to building modern web applications and deploying production-ready systems.
+
+I'm a final-year **B.Tech student in Instrumentation & Control Engineering** at **Netaji Subhas University of Technology (NSUT), Delhi**, graduating in **2026**. While my academic background is in Instrumentation, my focus over the past two years has been **Software Engineering**, building scalable applications with **TypeScript, Java, Python, Next.js, React, Node.js, SQL, and modern cloud-native technologies**.
+
+My interests lie at the intersection of **Software Engineering** and **Artificial Intelligence**. I enjoy designing systems that combine robust backend architecture, intuitive user experiences, and AI-powered capabilities. From full-stack SaaS applications to production-ready LLM workflows, I enjoy solving real engineering problems and shipping software that people can actually use.
+
+Currently, I'm building **VRIFACTICA**, an AI-powered fact-checking platform that extracts claims from PDF documents, verifies them against live web sources using LLMs, and produces evidence-backed results. I've also built AI products such as **SumzAI** and **SigmaGPT**, exploring document intelligence, retrieval pipelines, and production AI integrations.
+
+In **2026**, I was selected among **200 students from 500+ applicants** to participate in the **Adobe Express Add-ons for Enterprise Hackathon**. Within a 24-hour build sprint, my team designed, developed, and demonstrated a production-ready Adobe Express Add-on, earning **1st Place** for our technical implementation.
+
+As a **Full Stack Development Intern** at **ASSORTS Machine Tools Pvt. Ltd.**, I developed REST APIs, built database-driven features, automated internal workflows, and collaborated with engineers to debug, test, and deploy production applications. The experience strengthened my understanding of writing maintainable code, designing scalable backend systems, and delivering reliable software.
+
+Beyond projects, I'm continuously learning modern engineering practices including **GitHub Actions, CI/CD, cloud deployment, DevOps fundamentals, system design, and AI engineering workflows**, because I believe great software isn't just written—it's designed, automated, tested, and maintained.
+
+### Highlights
+
+- 🏆 **Adobe Express Add-ons Hackathon Winner (1st Place)**
+- 💼 Full Stack Development Intern at **ASSORTS Machine Tools Pvt. Ltd.**
+- 🤖 Built multiple AI-powered and full-stack production applications
+- 📚 **NPTEL Certified** – Introduction to Large Language Models
+- 💻 Active practitioner of **Data Structures & Algorithms** and **SQL**
+- 🌐 Former **Web Development Head** at **DevComm, NSUT**
+- 🚀 Passionate about Backend Engineering, AI Systems, and Product Development
+
+> *I enjoy building software that solves real problems, scales reliably, and delivers value to real users.*
 
 **Open To:** Software Engineer · AI/ML Engineer · Full Stack Developer roles · Open Source Collaboration · Internships
 
