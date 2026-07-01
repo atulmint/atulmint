@@ -29,8 +29,6 @@
 
 <img align="right" width="240" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=A78BFA&vCenter=true&width=1&lines=%3C%2F%3E" />
 
-## 🪐 About Me
-
 I build software **end-to-end**—from designing databases and backend APIs to building modern web applications and deploying production-ready systems.
 
 I'm a final-year **B.Tech student in Instrumentation & Control Engineering** at **Netaji Subhas University of Technology (NSUT), Delhi**, graduating in **2026**. While my academic background is in Instrumentation, my focus over the past two years has been **Software Engineering**, building scalable applications with **TypeScript, Java, Python, Next.js, React, Node.js, SQL, and modern cloud-native technologies**.
