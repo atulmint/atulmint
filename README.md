@@ -347,43 +347,37 @@ Progressed through multiple leadership roles in **DevComm**, the official techni
 </details>
 
 ---
+---
 
-## 🏆 Achievements
+# Achievements
 
 <div align="center">
 
-| Recognition | Details |
-|---|---|
-| [Achievement 1] | [Details] |
-| [Achievement 2] | [Details] |
-| [Achievement 3] | [Details] |
+| Recognition | Description | Credential |
+|:------------|:------------|:-----------|
+| **Adobe Express Add-ons Hackathon Winner** | Winner of Adobe's 24-hour Enterprise Add-ons Hackathon at NSUT. Led the development of **Caption Express Agent**, an AI-powered Adobe Express Add-on, from concept to working product. | **[View Certificate](https://drive.google.com/file/d/1hNPIFScHpDFh2igPw9IZTQtFU2T-R9Te/view)** |
+| **Full Stack Development Internship** | Completed a Full Stack Development Internship at **ASSORTS Machine Tools**, contributing to backend APIs, database integration, frontend features, and production software development. | **Professional Experience** |
+| **Leadership — DevComm, NSUT** | Progressed from **Member → Junior Counselor → Web Development Head**, leading technical initiatives, mentoring developers, and organizing engineering activities within NSUT's technical society. | **Community Leadership** |
+| **AI & Product Development** | Built multiple production-ready AI applications including **VRIFACTICA**, **SumzAI**, **BGGone AI Studio**, and **Caption Express Agent** using modern AI and full-stack technologies. | **Featured Projects** |
 
 </div>
 
 ---
 
-## 📜 Certifications
+# Certifications
 
-**AWS**
-<br/>
-![AWS](https://img.shields.io/badge/AWS_Certification-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+<div align="center">
 
-**Oracle**
-<br/>
-![Oracle](https://img.shields.io/badge/Oracle_Certification-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+| Certification | Provider | Credential |
+|:--------------|:---------|:-----------|
+| **Introduction to Large Language Models** | NPTEL | Completed |
+| **Complete SQL & Databases Bootcamp** | Udemy | **[View Certificate](https://www.udemy.com/certificate/UC-06b75730-452d-4d38-b0f6-c0ac797b4027/)** |
+| **Alpha – Data Structures & Algorithms with Java** | Apna College | Completed |
+| **Adobe Express Add-ons Hackathon Winner** | Adobe | **[View Certificate](https://drive.google.com/file/d/1hNPIFScHpDFh2igPw9IZTQtFU2T-R9Te/view)** |
 
-**NPTEL**
-<br/>
-![NPTEL](https://img.shields.io/badge/NPTEL_Certification-6d28d9?style=for-the-badge&logo=googlescholar&logoColor=white)
-
-**Cisco**
-<br/>
-![Cisco](https://img.shields.io/badge/Cisco_Certification-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-> Replace the badges above with your verified certification links/IDs.
+</div>
 
 ---
-
 ## 💻 Coding Profiles
 
 <div align="center">
