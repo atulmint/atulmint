@@ -29,38 +29,46 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&lines=Building+software+that+people+actually+use.;Backend+%7C+Full+Stack+%7C+AI+Engineering.;Always+learning.+Always+shipping." />
-
-<br/>
-
-I'm passionate about building software that goes beyond prototypes—from **database design and backend APIs** to **modern web applications**, **AI-powered systems**, and **production deployments**.
-
-Currently pursuing a **B.Tech in Instrumentation & Control Engineering** at **Netaji Subhas University of Technology (NSUT), Delhi**, but for the past two years my primary focus has been **Software Engineering**. I enjoy solving engineering problems with **TypeScript, Java, Python, Next.js, React, Node.js, SQL**, and modern cloud technologies.
-
-My recent work focuses on building **AI-native products** that combine **LLMs**, **retrieval pipelines**, **real-time APIs**, and **scalable backend systems**. I enjoy designing software that's reliable, maintainable, and built with real users in mind.
-
-I've built projects including **VRIFACTICA**, an AI-powered fact-checking platform, **SumzAI**, an intelligent document summarizer, and several full-stack applications covering authentication, payments, databases, and cloud deployment.
-
-Along the way, I had the opportunity to win the **Adobe Express Add-ons Hackathon**, work as a **Full Stack Development Intern** at **ASSORTS Machine Tools**, and lead the web development team at **DevComm, NSUT**—experiences that strengthened both my engineering and collaboration skills.
-
-### What I enjoy building
-
-⚡ Backend Systems & REST APIs  
-🤖 AI Applications & LLM Integrations  
-🌐 Full Stack Web Applications  
-🗄️ Database Design & System Architecture  
-🚀 Developer Tools & Automation  
-☁️ Cloud Deployment & CI/CD
-
-> **"I don't just enjoy writing code—I enjoy designing systems, solving real problems, and continuously improving the way software is built."**
-
-### 🎯 Currently Open To
-
-**Software Engineer • Backend Engineer • Full Stack Developer • AI Engineer • New Graduate Opportunities • Open Source Collaboration**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Software+End-to-End;Backend+%E2%80%A2+Full+Stack+%E2%80%A2+AI+Engineering;Learning+by+Building+Real+Products" />
 
 </div>
+
+I'm a final-year **B.Tech student** at **Netaji Subhas University of Technology (NSUT), Delhi**, with a strong focus on **Software Engineering**, **Backend Development**, and **AI-powered applications**.
+
+Over the last two years, I've been building software from **database schema to browser UI**—designing APIs, developing scalable backend services, integrating AI models, and deploying production-ready applications using modern web technologies.
+
+My engineering interests revolve around building products that solve real problems rather than isolated demos. I enjoy working across the complete development lifecycle, from architecture and implementation to deployment, automation, and continuous improvement.
+
+### 🚀 What I'm Building
+
+- 🔍 **VRIFACTICA** — AI-powered fact verification platform using LLMs and live web retrieval.
+- 📄 **SumzAI** — Intelligent document summarization platform with production-ready AI pipelines.
+- 💬 **SigmaGPT** — Full-stack AI chat application with authentication and modern web architecture.
+- 🤖 Production AI workflows using **OpenAI**, **Gemini**, **Groq**, and multi-provider inference pipelines.
+
+### 💼 Experience & Highlights
+
+- 🏆 **Winner — Adobe Express Add-ons Hackathon 2026**
+- 💻 **Full Stack Development Intern** at **ASSORTS Machine Tools Pvt. Ltd.**
+- 🌐 Former **Web Development Head** at **DevComm, NSUT**
+- 📚 **NPTEL Certified** — Introduction to Large Language Models
+- ⚙️ Currently exploring **GitHub Actions, CI/CD, Cloud Infrastructure, and AI Engineering**
+
+### 🛠 Tech I Enjoy Working With
+
+`TypeScript` • `Java` • `Python` • `Next.js` • `React` • `Node.js` • `Express` • `PostgreSQL` • `MongoDB` • `Supabase` • `Docker` • `GitHub Actions`
+
 ---
 
+<div align="center">
+
+### 🎯 Open To
+
+**Software Engineer • Backend Engineer • Full Stack Developer • AI Engineer • New Graduate Opportunities**
+
+*"Build thoughtfully. Ship confidently. Keep improving."*
+
+</div>
 ## 🛠️ Tech Stack
 
 <div align="center">
