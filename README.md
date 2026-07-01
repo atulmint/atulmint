@@ -282,18 +282,69 @@ Designed and implemented a production-ready Adobe Express Add-on within a 24-hou
 
 ---
 
-## 💼 Experience
+# Experience
 
-**[Your Job Title] · [Company Name]**
-`[Start Date] – [End Date]`
+<details open>
+<summary><b>Full Stack Development Intern • ASSORTS Machine Tools Pvt. Ltd.</b></summary>
 
-[One or two lines describing your role and impact.]
+<br/>
 
-- [Scope of work bullet point 1]
-- [Scope of work bullet point 2]
-- [Scope of work bullet point 3]
+**June 2025 – August 2025**  
+*New Delhi, India • Hybrid*
 
-`Skills:` ![Skill](https://img.shields.io/badge/-Skill-6d28d9?style=flat-square) ![Skill](https://img.shields.io/badge/-Skill-6d28d9?style=flat-square)
+Worked on production web applications by developing backend services, integrating databases, and implementing frontend features while collaborating with experienced engineers in an agile development environment.
+
+| Area | Details |
+|:-----|:--------|
+| **Role** | Full Stack Development Intern |
+| **Focus** | Backend Development · REST APIs · Database Integration |
+| **Environment** | Production Applications · Agile Development · Team Collaboration |
+
+### Responsibilities
+
+- Developed and tested RESTful APIs powering production application features.
+- Integrated relational databases with backend services for scalable data management.
+- Built responsive frontend components using HTML, CSS, and JavaScript.
+- Collaborated with engineers to debug production issues, improve performance, and enhance application reliability.
+- Gained practical experience with modern software development workflows, version control, and deployment practices.
+
+**Technologies**
+
+`JavaScript` • `Node.js` • `REST APIs` • `SQL` • `Git` • `HTML` • `CSS`
+
+</details>
+
+---
+
+<details open>
+<summary><b>DevComm — Technical Society, Netaji Subhas University of Technology (NSUT)</b></summary>
+
+<br/>
+
+**December 2022 – May 2025**  
+*Delhi, India • Hybrid*
+
+Progressed through multiple leadership roles in **DevComm**, the official technical and developer community at NSUT, contributing to technical initiatives, mentoring students, and organizing developer-focused events.
+
+| Position | Duration |
+|:---------|:---------|
+| **Web Development Head** | Aug 2024 – May 2025 |
+| **Junior Counselor** | Sep 2023 – Jul 2024 |
+| **Member** | Dec 2022 – Aug 2023 |
+
+### Contributions
+
+- Led the Web Development team and coordinated technical initiatives within the society.
+- Mentored junior members in frontend development, Git, and collaborative software development.
+- Contributed to organizing technical workshops, coding sessions, and community events.
+- Worked closely with cross-functional student teams on web development projects and internal platforms.
+- Promoted engineering best practices, collaboration, and knowledge sharing across the community.
+
+**Focus Areas**
+
+`Leadership` • `Web Development` • `Mentorship` • `Community Building` • `Team Collaboration`
+
+</details>
 
 ---
 
