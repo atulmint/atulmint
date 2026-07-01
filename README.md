@@ -282,7 +282,7 @@ Designed and implemented a production-ready Adobe Express Add-on within a 24-hou
 
 ---
 
-#💼 Experience
+# 💼Experience
 
 <details open>
 <summary><b>Full Stack Development Intern • ASSORTS Machine Tools Pvt. Ltd.</b></summary>
