@@ -139,19 +139,26 @@ My engineering interests revolve around building products that solve real proble
 
 ---
 
-## 🤖 AI / ML Expertise
+## 🤖 AI & Machine Learning
 
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| **LLM Integration** | ⭐⭐⭐⭐⭐ | Google Gemini, Groq (Llama 3.3 70B), OpenAI-compatible APIs, provider fallback design |
-| **RAG / Live Retrieval** | ⭐⭐⭐⭐ | Tavily web search integration, claim-grounding, source-cited verdicts |
-| **Prompt Engineering** | ⭐⭐⭐⭐ | Structured JSON outputs, verdict classification, claim extraction prompts |
-| **Concurrency & Reliability** | ⭐⭐⭐⭐ | Bounded concurrency pools, retry/backoff strategies for LLM API calls under load |
-| **Streaming Pipelines** | ⭐⭐⭐ | NDJSON progress streaming for long-running AI workflows |
-| **Agentic Tooling** | ⭐⭐⭐ | Multi-step agent workflows, tool-calling pipelines |
+<div align="center">
+
+| **Domain** | **Experience** | **Technologies & Implementation** |
+|:-----------|:---------------|:----------------------------------|
+| 🧠 **Large Language Models** | Multi-provider inference & orchestration | OpenAI • Google Gemini • Groq (Llama 3.x) • Provider fallback architecture |
+| 🔎 **RAG & Knowledge Retrieval** | Grounded AI applications | Tavily Search • PDF parsing • Claim extraction • Source-cited responses |
+| ✍️ **Prompt Engineering** | Structured AI workflows | JSON schema prompting • Function-style outputs • Context engineering • Prompt optimization |
+| 🤖 **AI Agents** | Agentic workflows | Multi-step reasoning • Tool calling • AI pipeline orchestration |
+| ⚡ **Backend AI Systems** | Production AI APIs | REST APIs • Streaming responses • Concurrent request handling • Background processing |
+| 📄 **Document Intelligence** | AI document processing | PDF ingestion • Chunking • Summarization • Fact verification |
+| 🚀 **Performance & Reliability** | Scalable inference pipelines | Async processing • Retry strategies • Concurrency control • Provider failover |
+| 📊 **Deployment & Integration** | End-to-end AI products | Next.js • Node.js • Supabase • Cloudflare • Vercel |
+
+</div>
+
+> **Projects:** **VRIFACTICA** • **SumzAI** • **SigmaGPT** • **Brain Tumor Detection (CNN, VGG16, ResNet50, DenseNet)**
 
 ---
-
 ## 🚀 Featured Projects
 
 <details open>
