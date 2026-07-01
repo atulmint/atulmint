@@ -349,31 +349,35 @@ Progressed through multiple leadership roles in **DevComm**, the official techni
 ---
 ---
 
-# Achievements
+---
+
+# 🏆 Achievements
 
 <div align="center">
 
 | Recognition | Description | Credential |
 |:------------|:------------|:-----------|
-| **Adobe Express Add-ons Hackathon Winner** | Winner of Adobe's 24-hour Enterprise Add-ons Hackathon at NSUT. Led the development of **Caption Express Agent**, an AI-powered Adobe Express Add-on, from concept to working product. | **[View Certificate](https://drive.google.com/file/d/1hNPIFScHpDFh2igPw9IZTQtFU2T-R9Te/view)** |
-| **Full Stack Development Internship** | Completed a Full Stack Development Internship at **ASSORTS Machine Tools**, contributing to backend APIs, database integration, frontend features, and production software development. | **Professional Experience** |
-| **Leadership — DevComm, NSUT** | Progressed from **Member → Junior Counselor → Web Development Head**, leading technical initiatives, mentoring developers, and organizing engineering activities within NSUT's technical society. | **Community Leadership** |
-| **AI & Product Development** | Built multiple production-ready AI applications including **VRIFACTICA**, **SumzAI**, **BGGone AI Studio**, and **Caption Express Agent** using modern AI and full-stack technologies. | **Featured Projects** |
+| **Winner — Adobe Express Add-ons for Enterprise Hackathon** | Led the development of **Caption Express Agent**, an AI-powered Adobe Express Add-on, during Adobe's first 24-hour Enterprise Hackathon at NSUT, delivering a production-ready solution from concept to demo. | **[View Certificate](https://drive.google.com/file/d/1hNPIFScHpDFh2igPw9IZTQtFU2T-R9Te/view)** |
+| **Full Stack Development Intern** | Contributed to production software development at **ASSORTS Machine Tools**, building REST APIs, integrating relational databases, and developing full-stack web application features. | **Professional Experience** |
+| **Web Development Head — DevComm, NSUT** | Progressed through multiple leadership roles within NSUT's technical society, mentoring developers, leading web initiatives, and organizing technical activities across the community. | **Leadership Experience** |
+| **AI & Software Engineering Projects** | Designed and developed production-ready applications including **VRIFACTICA**, **SumzAI**, **Law Publishing House**, **BGGone AI Studio**, and **Caption Express Agent**. | **Featured Projects** |
 
 </div>
 
 ---
 
-# Certifications
+# 📜 Certifications
 
 <div align="center">
 
 | Certification | Provider | Credential |
 |:--------------|:---------|:-----------|
-| **Introduction to Large Language Models** | NPTEL | Completed |
+| **Introduction to Large Language Models (LLMs)** | NPTEL | **[View Certificate](https://drive.google.com/file/d/16HY5S1lajiOM4fyT8Sf90LJQLRvOmVGy/view?usp=sharing)** |
+| **Affective Computing** | NPTEL | **[View Certificate](https://drive.google.com/file/d/1JDqQaT3G6_xOjwObjC-TKkT_GOrt5zIs/view?usp=sharing)** |
+| **Introduction to Internet of Things** | NPTEL | **[View Certificate](https://drive.google.com/file/d/1bxZAhC4AuhU1n99foKlVI_dlg62SWA2_/view?usp=sharing)** |
 | **Complete SQL & Databases Bootcamp** | Udemy | **[View Certificate](https://www.udemy.com/certificate/UC-06b75730-452d-4d38-b0f6-c0ac797b4027/)** |
-| **Alpha – Data Structures & Algorithms with Java** | Apna College | Completed |
-| **Adobe Express Add-ons Hackathon Winner** | Adobe | **[View Certificate](https://drive.google.com/file/d/1hNPIFScHpDFh2igPw9IZTQtFU2T-R9Te/view)** |
+| **Alpha – Data Structures & Algorithms with Java** | Apna College | **Completed** |
+| **Adobe Express Add-ons for Enterprise Hackathon** | Adobe | **[Winner Certificate](https://drive.google.com/file/d/1hNPIFScHpDFh2igPw9IZTQtFU2T-R9Te/view)** |
 
 </div>
 
