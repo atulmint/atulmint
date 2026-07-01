@@ -264,17 +264,28 @@ A CRUD-based note-taking application with persistent storage.
 
 ---
 
+
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/atulmint/atulmint/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/atulmint/atulmint/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/atulmint/atulmint/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/atulmint/atulmint/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+  />
+</picture>
 
 </div>
-
-> Generated via the [`platane/snk`](https://github.com/Platane/snk) GitHub Action — add the workflow to `atulmint/atulmint` to activate this.
-
----
 
 ## 🎯 Current Focus
 
