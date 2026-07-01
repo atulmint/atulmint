@@ -441,34 +441,16 @@ Progressed through multiple leadership roles in **DevComm**, the official techni
 
 </div>
 
-## 🎯 Current Focus
 
-```yaml
-current_focus:
-  learning:
-    - Advanced RAG architectures
-    - Distributed systems & concurrency patterns
-  building:
-    - VRIFACTICA — AI fact-checking platform
-  exploring:
-    - Generative Engine Optimization (GEO) analytics
-    - Agentic AI workflows
-  open_to:
-    - Software Engineer roles
-    - AI/ML Engineer roles
-    - Open source collaboration
-```
-
----
 
 ## 📫 Connect With Me
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-5b21b6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-5b21b6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atulmint1502@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atul-kumar-584470272)
 [![GitHub](https://img.shields.io/badge/GitHub-4c1d95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atulmint)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+
 
 </div>
 
