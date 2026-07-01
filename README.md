@@ -167,17 +167,18 @@ My engineering interests revolve around building products that solve real proble
 
 <br/>
 
-Production-ready AI platform that extracts claims from PDF documents, validates them against live web sources, and generates evidence-backed verification reports using a multi-provider LLM architecture.
+Production-ready AI platform that extracts factual claims from PDF documents, verifies them against live web sources, and generates evidence-backed reports using a multi-provider LLM pipeline.
 
 | Category | Details |
 |:---------|:--------|
-| **Tech Stack** | TanStack Start • TypeScript • Node.js • Supabase • Google Gemini • Tavily Search • Cloudflare • Vercel |
-| **Core Features** | PDF ingestion • Claim extraction • Live web retrieval • AI fact verification • Streaming progress |
-| **Architecture** | Server-side verification pipeline with bounded concurrency, provider failover, and asynchronous processing |
-| **Engineering Focus** | AI Engineering • Backend Systems • REST APIs • RAG • Production Deployment |
+| **Tech Stack** | TanStack Start · TypeScript · Node.js · Supabase · Google Gemini · Tavily API · Cloudflare · Vercel |
+| **Key Features** | PDF ingestion · Claim extraction · Live web retrieval · AI verification · Streaming progress · Source-backed verdicts |
+| **Architecture** | Multi-provider LLM orchestration · Concurrency control · Retry strategies · Server-side verification pipeline |
+| **Engineering Focus** | AI Engineering · Backend Systems · RAG · REST APIs · Production Deployment |
+| **Live Demo** | https://vrifactica.vercel.app/ |
 | **Repository** | https://github.com/atulmint/Vrifactica |
 
-Implemented a production-oriented AI pipeline capable of processing documents, retrieving supporting evidence from live web sources, and generating structured verification reports while maintaining reliability through concurrency control and provider fallback strategies.
+Designed to combat AI hallucinations by grounding model outputs with live web evidence, VRIFACTICA demonstrates production-oriented AI engineering through reliable inference pipelines, scalable backend architecture, and asynchronous document processing.
 
 </details>
 
@@ -188,36 +189,59 @@ Implemented a production-oriented AI pipeline capable of processing documents, r
 
 <br/>
 
-AI-powered SaaS platform for processing long-form documents into structured summaries using modern LLM workflows.
+AI-powered SaaS application that transforms long-form PDF documents into structured, concise summaries using modern LLM workflows and a complete full-stack architecture.
 
 | Category | Details |
 |:---------|:--------|
-| **Tech Stack** | Next.js • TypeScript • Node.js • PostgreSQL • Clerk • Stripe • OpenAI • Gemini |
-| **Core Features** | PDF upload • Chunk processing • AI summarization • Authentication • Subscription management |
-| **Engineering Focus** | Full Stack Development • AI Integration • SaaS Architecture |
-| **Repository** | https://github.com/atulmint/Sumz-Ai |
+| **Tech Stack** | Next.js · TypeScript · Node.js · PostgreSQL · Clerk · Stripe · OpenAI · Gemini |
+| **Key Features** | Authentication · PDF upload · Chunk processing · AI summarization · Subscription management |
+| **Engineering Focus** | Full Stack Development · AI Integration · SaaS Architecture |
+| **Live Demo** | https://sumz-ai-ki7p.vercel.app/ |
+| **Repository** | Private / Academic Project |
 
-Designed and developed a complete AI SaaS workflow including authentication, document processing, AI inference, payment integration, and cloud deployment.
+Built as a production-style SaaS application featuring authentication, document processing, payment integration, and scalable AI workflows from ingestion to summary generation.
 
 </details>
 
 ---
 
 <details>
-<summary><b>SigmaGPT — AI Chat Platform</b></summary>
+<summary><b>Law Publishing House — Knowledge Hub Platform</b></summary>
 
 <br/>
 
-Full-stack conversational AI application integrating multiple language models through a scalable backend architecture.
+A modern digital publishing platform developed for Bihar Government law publications, departmental examinations, administrative manuals, and educational resources with bilingual content support.
 
 | Category | Details |
 |:---------|:--------|
-| **Tech Stack** | Next.js • TypeScript • Node.js • OpenAI API • PostgreSQL |
-| **Core Features** | Authentication • Conversation history • Streaming responses • Modern UI |
-| **Engineering Focus** | Full Stack Development • AI APIs • Backend Engineering |
-| **Repository** | https://github.com/atulmint/SigmaGPT |
+| **Tech Stack** | Next.js 14 · TypeScript · Tailwind CSS · Google Apps Script · Vercel |
+| **Key Features** | Dynamic book catalog · Category filtering · Admin dashboard · Interactive enquiry forms · Bilingual content |
+| **Engineering Focus** | Full Stack Development · CMS Architecture · Responsive UI/UX |
+| **Live Demo** | https://law-publishing-house.vercel.app/ |
+| **Repository** | https://github.com/atulmint/Law-Publishing-House- |
 
-Built an AI-native web application emphasizing responsive user experience, scalable backend APIs, and production-ready deployment practices.
+Developed a production-ready publishing platform with responsive design, integrated enquiry workflows, premium UI components, and scalable content management for educational publications.
+
+</details>
+
+---
+
+<details>
+<summary><b>BGGone AI Studio — AI Background Removal Application</b></summary>
+
+<br/>
+
+Modern AI-powered web application for automatically removing image backgrounds with a responsive interface and streamlined user workflow.
+
+| Category | Details |
+|:---------|:--------|
+| **Tech Stack** | React · TypeScript · Vite · Tailwind CSS · shadcn/ui |
+| **Key Features** | AI background removal · Image upload · Instant preview · Responsive interface |
+| **Engineering Focus** | Frontend Engineering · AI Integration · Modern UI Development |
+| **Live Demo** | https://bggone-ai-studio.vercel.app/ |
+| **Repository** | https://github.com/atulmint/bggone-ai-studio |
+
+Built as a modern AI web application emphasizing intuitive user experience, responsive design, and seamless AI-powered image processing.
 
 </details>
 
@@ -228,16 +252,16 @@ Built an AI-native web application emphasizing responsive user experience, scala
 
 <br/>
 
-AI-powered Adobe Express Add-on developed during the Adobe Express Add-ons Hackathon.
+AI-powered Adobe Express Add-on developed during the Adobe Express Add-ons Hackathon to streamline content creation workflows.
 
 | Category | Details |
 |:---------|:--------|
-| **Tech Stack** | TypeScript • Adobe Express SDK • AI APIs |
+| **Tech Stack** | TypeScript · Adobe Express SDK · AI APIs |
 | **Achievement** | Winner — Adobe Express Add-ons Hackathon |
-| **Engineering Focus** | Browser Extensions • AI Automation • Product Development |
+| **Engineering Focus** | AI Automation · Product Development · Browser Extensions |
 | **Repository** | https://github.com/atulmint/Caption-Express-Agent |
 
-Designed and implemented an AI-assisted content generation workflow inside Adobe Express, delivering a production-ready prototype within a 24-hour engineering sprint.
+Designed and implemented a production-ready Adobe Express Add-on within a 24-hour engineering sprint, transforming an idea into a working product presented to Adobe engineers.
 
 </details>
 
@@ -248,9 +272,11 @@ Designed and implemented an AI-assisted content generation workflow inside Adobe
 
 | Project | Description | Repository |
 |:--------|:------------|:-----------|
-| **ASSIGN_E-COMM** | Full-stack e-commerce platform featuring authentication, product catalog, cart management, and checkout workflows. | https://github.com/atulmint/ASSIGN_E-COMM |
-| **Gallery Project** | Responsive image gallery demonstrating modern frontend architecture and dynamic layouts. | https://github.com/atulmint/Gallery-Project |
-| **Notes App** | CRUD-based note management application with persistent storage and responsive interface. | https://github.com/atulmint/Notes-App-Project |
+| **SigmaGPT** | Full-stack conversational AI application featuring authentication, persistent chat history, and LLM-powered interactions. | Private |
+| **Brain Tumor Detection** | Deep learning project comparing CNN, VGG16, ResNet50, DenseNet, and EfficientNet architectures for MRI-based brain tumor classification. | Academic |
+| **ASSIGN_E-COMM** | Full-stack e-commerce application with authentication, product catalog, shopping cart, and checkout workflows. | https://github.com/atulmint/ASSIGN_E-COMM |
+| **Gallery Project** | Responsive image gallery demonstrating dynamic layouts, reusable UI components, and modern frontend practices. | https://github.com/atulmint/Gallery-Project |
+| **Notes App** | CRUD-based note management application with persistent storage and responsive user interface. | https://github.com/atulmint/Notes-App-Project |
 
 </details>
 
