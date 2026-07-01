@@ -25,7 +25,7 @@
 
 ---
 
-## 🪐 About Me
+##  About Me
 
 <div align="center">
 
@@ -39,20 +39,20 @@ Over the last two years, I've been building software from **database schema to b
 
 My engineering interests revolve around building products that solve real problems rather than isolated demos. I enjoy working across the complete development lifecycle, from architecture and implementation to deployment, automation, and continuous improvement.
 
-### 🚀 What I'm Building
+###  What I'm Building
 
-- 🔍 **VRIFACTICA** — AI-powered fact verification platform using LLMs and live web retrieval.
-- 📄 **SumzAI** — Intelligent document summarization platform with production-ready AI pipelines.
-- 💬 **SigmaGPT** — Full-stack AI chat application with authentication and modern web architecture.
-- 🤖 Production AI workflows using **OpenAI**, **Gemini**, **Groq**, and multi-provider inference pipelines.
+-  **VRIFACTICA** — AI-powered fact verification platform using LLMs and live web retrieval.
+-  **SumzAI** — Intelligent document summarization platform with production-ready AI pipelines.
+-  **SigmaGPT** — Full-stack AI chat application with authentication and modern web architecture.
+-  Production AI workflows using **OpenAI**, **Gemini**, **Groq**, and multi-provider inference pipelines.
 
-### 💼 Experience & Highlights
+###  Experience & Highlights
 
-- 🏆 **Winner — Adobe Express Add-ons Hackathon 2026**
-- 💻 **Full Stack Development Intern** at **ASSORTS Machine Tools Pvt. Ltd.**
-- 🌐 Former **Web Development Head** at **DevComm, NSUT**
-- 📚 **NPTEL Certified** — Introduction to Large Language Models
-- ⚙️ Currently exploring **GitHub Actions, CI/CD, Cloud Infrastructure, and AI Engineering**
+-  **Winner — Adobe Express Add-ons Hackathon 2026**
+-  **Full Stack Development Intern** at **ASSORTS Machine Tools Pvt. Ltd.**
+-  Former **Web Development Head** at **DevComm, NSUT**
+-  **NPTEL Certified** — Introduction to Large Language Models
+-  Currently exploring **GitHub Actions, CI/CD, Cloud Infrastructure, and AI Engineering**
 
 ### 🛠 Tech I Enjoy Working With
 
@@ -62,7 +62,7 @@ My engineering interests revolve around building products that solve real proble
 
 <div align="center">
 
-### 🎯 Open To
+###  Open To
 
 **Software Engineer • Backend Engineer • Full Stack Developer • AI Engineer • New Graduate Opportunities**
 
@@ -71,11 +71,11 @@ My engineering interests revolve around building products that solve real proble
 </div>
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
-### 💻 Languages
+###  Languages
 
 <br/>
 
@@ -83,7 +83,7 @@ My engineering interests revolve around building products that solve real proble
 
 <br/><br/>
 
-### 🎨 Frontend
+###  Frontend
 
 <br/>
 
@@ -91,7 +91,7 @@ My engineering interests revolve around building products that solve real proble
 
 <br/><br/>
 
-### ⚙️ Backend & APIs
+###  Backend & APIs
 
 <br/>
 
@@ -99,7 +99,7 @@ My engineering interests revolve around building products that solve real proble
 
 <br/><br/>
 
-### 🗄️ Databases & ORM
+###  Databases & ORM
 
 <br/>
 
@@ -107,7 +107,7 @@ My engineering interests revolve around building products that solve real proble
 
 <br/><br/>
 
-### ☁️ Cloud • DevOps • Deployment
+###  Cloud • DevOps • Deployment
 
 <br/>
 
@@ -115,7 +115,7 @@ My engineering interests revolve around building products that solve real proble
 
 <br/><br/>
 
-### 🛠️ Developer Tools
+###  Developer Tools
 
 <br/>
 
@@ -127,7 +127,7 @@ My engineering interests revolve around building products that solve real proble
 
 <div align="center">
 
-| 💻 **Software Engineering** | 🤖 **AI Engineering** | ☁️ **Deployment** |
+|  **Software Engineering** |  **AI Engineering** |  **Deployment** |
 |:---------------------------:|:---------------------:|:-----------------:|
 | Full Stack Development | LLM Integration | Docker |
 | REST APIs | Prompt Engineering | GitHub Actions |
@@ -139,109 +139,118 @@ My engineering interests revolve around building products that solve real proble
 
 ---
 
-## 🤖 AI & Machine Learning
+##  AI & Machine Learning
 
 <div align="center">
 
 | **Domain** | **Experience** | **Technologies & Implementation** |
 |:-----------|:---------------|:----------------------------------|
-| 🧠 **Large Language Models** | Multi-provider inference & orchestration | OpenAI • Google Gemini • Groq (Llama 3.x) • Provider fallback architecture |
-| 🔎 **RAG & Knowledge Retrieval** | Grounded AI applications | Tavily Search • PDF parsing • Claim extraction • Source-cited responses |
-| ✍️ **Prompt Engineering** | Structured AI workflows | JSON schema prompting • Function-style outputs • Context engineering • Prompt optimization |
-| 🤖 **AI Agents** | Agentic workflows | Multi-step reasoning • Tool calling • AI pipeline orchestration |
-| ⚡ **Backend AI Systems** | Production AI APIs | REST APIs • Streaming responses • Concurrent request handling • Background processing |
-| 📄 **Document Intelligence** | AI document processing | PDF ingestion • Chunking • Summarization • Fact verification |
-| 🚀 **Performance & Reliability** | Scalable inference pipelines | Async processing • Retry strategies • Concurrency control • Provider failover |
-| 📊 **Deployment & Integration** | End-to-end AI products | Next.js • Node.js • Supabase • Cloudflare • Vercel |
+|  **Large Language Models** | Multi-provider inference & orchestration | OpenAI • Google Gemini • Groq (Llama 3.x) • Provider fallback architecture |
+|  **RAG & Knowledge Retrieval** | Grounded AI applications | Tavily Search • PDF parsing • Claim extraction • Source-cited responses |
+|  **Prompt Engineering** | Structured AI workflows | JSON schema prompting • Function-style outputs • Context engineering • Prompt optimization |
+|  **AI Agents** | Agentic workflows | Multi-step reasoning • Tool calling • AI pipeline orchestration |
+|  **Backend AI Systems** | Production AI APIs | REST APIs • Streaming responses • Concurrent request handling • Background processing |
+|  **Document Intelligence** | AI document processing | PDF ingestion • Chunking • Summarization • Fact verification |
+|  **Performance & Reliability** | Scalable inference pipelines | Async processing • Retry strategies • Concurrency control • Provider failover |
+|  **Deployment & Integration** | End-to-end AI products | Next.js • Node.js • Supabase • Cloudflare • Vercel |
 
 </div>
 
 > **Projects:** **VRIFACTICA** • **SumzAI** • **SigmaGPT** • **Brain Tumor Detection (CNN, VGG16, ResNet50, DenseNet)**
 
 ---
-## 🚀 Featured Projects
+
+# Featured Projects
 
 <details open>
-<summary><b>🔍 VRIFACTICA — AI-Powered PDF Fact-Checking Engine</b></summary>
+<summary><b>VRIFACTICA — AI-Powered Fact Verification Platform</b></summary>
+
 <br/>
 
-An anonymous, no-login web app that extracts factual claims from uploaded PDFs, verifies each claim against live web sources, and returns a verdict — **Verified**, **Inaccurate**, or **False** — with corrected facts and citations.
+Production-ready AI platform that extracts claims from PDF documents, validates them against live web sources, and generates evidence-backed verification reports using a multi-provider LLM architecture.
 
-| Attribute | Detail |
-|---|---|
-| **Stack** | TanStack Start (SSR) · Cloudflare/Nitro · Supabase · Google Gemini · Tavily API |
-| **Scale** | Streaming NDJSON progress events for real-time claim-by-claim feedback |
-| **Performance** | Bounded concurrency pool (max 4 parallel LLM calls) to prevent rate-limit failures |
-| **Security** | Environment-isolated API keys, server-side claim verification only |
-| **Impact** | End-to-end verified pipeline tested against real and fabricated claims |
-| **Repository** | [github.com/atulmint/Vrifactica](https://github.com/atulmint/Vrifactica) |
+| Category | Details |
+|:---------|:--------|
+| **Tech Stack** | TanStack Start • TypeScript • Node.js • Supabase • Google Gemini • Tavily Search • Cloudflare • Vercel |
+| **Core Features** | PDF ingestion • Claim extraction • Live web retrieval • AI fact verification • Streaming progress |
+| **Architecture** | Server-side verification pipeline with bounded concurrency, provider failover, and asynchronous processing |
+| **Engineering Focus** | AI Engineering • Backend Systems • REST APIs • RAG • Production Deployment |
+| **Repository** | https://github.com/atulmint/Vrifactica |
 
-Built initially in Lovable and migrated to a standalone GitHub-hosted codebase, VRIFACTICA demonstrates a production-style approach to grounding LLM outputs in live, verifiable data — replacing unbounded parallel API calls with a controlled concurrency model to keep the system stable under concurrent load.
+Implemented a production-oriented AI pipeline capable of processing documents, retrieving supporting evidence from live web sources, and generating structured verification reports while maintaining reliability through concurrency control and provider fallback strategies.
 
 </details>
 
+---
+
 <details>
-<summary><b>🎬 Caption Express Agent</b></summary>
+<summary><b>SumzAI — AI Document Intelligence Platform</b></summary>
+
 <br/>
 
-| Attribute | Detail |
-|---|---|
-| **Stack** | TypeScript |
-| **Repository** | [github.com/atulmint/Caption-Express-Agent](https://github.com/atulmint/Caption-Express-Agent) |
+AI-powered SaaS platform for processing long-form documents into structured summaries using modern LLM workflows.
 
-An agent-style tool built around automated caption/content generation workflows.
+| Category | Details |
+|:---------|:--------|
+| **Tech Stack** | Next.js • TypeScript • Node.js • PostgreSQL • Clerk • Stripe • OpenAI • Gemini |
+| **Core Features** | PDF upload • Chunk processing • AI summarization • Authentication • Subscription management |
+| **Engineering Focus** | Full Stack Development • AI Integration • SaaS Architecture |
+| **Repository** | https://github.com/atulmint/Sumz-Ai |
+
+Designed and developed a complete AI SaaS workflow including authentication, document processing, AI inference, payment integration, and cloud deployment.
 
 </details>
 
+---
+
 <details>
-<summary><b>📝 Sumz-AI</b></summary>
+<summary><b>SigmaGPT — AI Chat Platform</b></summary>
+
 <br/>
 
-| Attribute | Detail |
-|---|---|
-| **Stack** | TypeScript |
-| **Repository** | [github.com/atulmint/Sumz-Ai](https://github.com/atulmint/Sumz-Ai) |
+Full-stack conversational AI application integrating multiple language models through a scalable backend architecture.
 
-An AI-driven summarization tool focused on distilling long-form content into concise, structured output.
+| Category | Details |
+|:---------|:--------|
+| **Tech Stack** | Next.js • TypeScript • Node.js • OpenAI API • PostgreSQL |
+| **Core Features** | Authentication • Conversation history • Streaming responses • Modern UI |
+| **Engineering Focus** | Full Stack Development • AI APIs • Backend Engineering |
+| **Repository** | https://github.com/atulmint/SigmaGPT |
+
+Built an AI-native web application emphasizing responsive user experience, scalable backend APIs, and production-ready deployment practices.
 
 </details>
 
+---
+
 <details>
-<summary><b>🛒 ASSIGN_E-COMM</b></summary>
+<summary><b>Caption Express Agent — Adobe Express Add-on</b></summary>
+
 <br/>
 
-| Attribute | Detail |
-|---|---|
-| **Stack** | JavaScript |
-| **Repository** | [github.com/atulmint/ASSIGN_E-COMM](https://github.com/atulmint/ASSIGN_E-COMM) |
+AI-powered Adobe Express Add-on developed during the Adobe Express Add-ons Hackathon.
 
-A full-stack e-commerce application project covering catalog, cart, and checkout flows.
+| Category | Details |
+|:---------|:--------|
+| **Tech Stack** | TypeScript • Adobe Express SDK • AI APIs |
+| **Achievement** | Winner — Adobe Express Add-ons Hackathon |
+| **Engineering Focus** | Browser Extensions • AI Automation • Product Development |
+| **Repository** | https://github.com/atulmint/Caption-Express-Agent |
+
+Designed and implemented an AI-assisted content generation workflow inside Adobe Express, delivering a production-ready prototype within a 24-hour engineering sprint.
 
 </details>
 
-<details>
-<summary><b>🖼️ Gallery Project</b></summary>
-<br/>
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | JavaScript |
-| **Repository** | [github.com/atulmint/Gallery-Project](https://github.com/atulmint/Gallery-Project) |
-
-A responsive image gallery application with dynamic layout handling.
-
-</details>
+---
 
 <details>
-<summary><b>🗒️ Notes App Project</b></summary>
-<br/>
+<summary><b>Additional Projects</b></summary>
 
-| Attribute | Detail |
-|---|---|
-| **Stack** | JavaScript |
-| **Repository** | [github.com/atulmint/Notes-App-Project](https://github.com/atulmint/Notes-App-Project) |
-
-A CRUD-based note-taking application with persistent storage.
+| Project | Description | Repository |
+|:--------|:------------|:-----------|
+| **ASSIGN_E-COMM** | Full-stack e-commerce platform featuring authentication, product catalog, cart management, and checkout workflows. | https://github.com/atulmint/ASSIGN_E-COMM |
+| **Gallery Project** | Responsive image gallery demonstrating modern frontend architecture and dynamic layouts. | https://github.com/atulmint/Gallery-Project |
+| **Notes App** | CRUD-based note management application with persistent storage and responsive interface. | https://github.com/atulmint/Notes-App-Project |
 
 </details>
 
