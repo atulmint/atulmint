@@ -1,11 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d17,50:4c1d95,100:A855F7&height=220&section=header&text=ATUL%20KUMAR&fontSize=52&fontColor=e9d5ff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d17,50:4c1d95,100:A855F7&height=190&section=header&text=ATUL%20KUMAR&fontSize=52&fontColor=e9d5ff&animation=fadeIn&fontAlignY=45&descAlignY=100" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=C084FC&center=true&vCenter=true&width=680&lines=Building+AI-powered+products;Full+Stack+%2B+GenAI+Engineering;Turning+ideas+into+production+systems;Open+to+SDE+%2F+AI+Engineer+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=700&color=C084FC&center=true&vCenter=true&width=680&height=40&lines=Software+Engineer_;AI+Engineer_;Full+Stack+Developer_;Backend+Developer_;Building+AI-powered+Products_;Turning+Ideas+Into+Production+Systems_;Open+to+SDE+Opportunities_" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -30,7 +28,7 @@
 
 <br/>
 
-## 🪐&nbsp; About Me
+## 🪐&nbsp; About Me <picture><sub><img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="20px"/></sub></picture>
 
 <table width="100%">
 <tr>
@@ -71,7 +69,7 @@ I build software end-to-end — from database schema to deployed UI — designin
 
 <br/>
 
-## 🧱&nbsp; Tech Stack
+## 🧱&nbsp; Tech Stack <picture><sub><img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="20px"/></sub></picture>
 
 <div align="center">
 
@@ -133,7 +131,16 @@ I build software end-to-end — from database schema to deployed UI — designin
 
 <br/>
 
-## 🤖&nbsp; AI / ML Engineering Matrix
+<details>
+<summary>
+
+## 🤖&nbsp; AI / ML Engineering Matrix <picture><sub><img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="20px"/></sub></picture>
+
+<sub>Click to expand the full LLM, RAG, and AI-systems breakdown</sub>
+
+</summary>
+
+<br/>
 
 <div align="center">
 
@@ -152,6 +159,8 @@ I build software end-to-end — from database schema to deployed UI — designin
 
 </div>
 
+</details>
+
 <br/>
 
 <div align="center">
@@ -160,7 +169,16 @@ I build software end-to-end — from database schema to deployed UI — designin
 
 <br/>
 
-## 💼&nbsp; Experience
+<details>
+<summary>
+
+## 💼&nbsp; Experience <picture><sub><img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="20px"/></sub></picture>
+
+<sub>Click to expand internship and leadership history</sub>
+
+</summary>
+
+<br/>
 
 <table width="100%">
 <tr><td>
@@ -202,6 +220,8 @@ Worked on production web applications by developing backend services, integratin
 </td></tr>
 </table>
 
+</details>
+
 <br/>
 
 <div align="center">
@@ -210,7 +230,16 @@ Worked on production web applications by developing backend services, integratin
 
 <br/>
 
-## 🚀&nbsp; Featured Projects
+<details>
+<summary>
+
+## 🚀&nbsp; Featured Projects <picture><sub><img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="20px"/></sub></picture>
+
+<sub>Click to explore production applications and live demos</sub>
+
+</summary>
+
+<br/>
 
 <table width="100%">
 <tr><td>
@@ -310,6 +339,8 @@ Modern AI web application for automatic background removal, built with an emphas
 
 </details>
 
+</details>
+
 <br/>
 
 <div align="center">
@@ -318,7 +349,16 @@ Modern AI web application for automatic background removal, built with an emphas
 
 <br/>
 
-## 🏆&nbsp; Achievements
+<details>
+<summary>
+
+## 🏆&nbsp; Achievements <picture><sub><img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="20px"/></sub></picture>
+
+<sub>Click to expand recognitions and milestones</sub>
+
+</summary>
+
+<br/>
 
 <div align="center">
 
@@ -331,6 +371,8 @@ Modern AI web application for automatic background removal, built with an emphas
 
 </div>
 
+</details>
+
 <br/>
 
 <div align="center">
@@ -339,7 +381,7 @@ Modern AI web application for automatic background removal, built with an emphas
 
 <br/>
 
-## 📜&nbsp; Certifications
+## 📜&nbsp; Certifications <picture><sub><img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="20px"/></sub></picture>
 
 <div align="center">
 
@@ -377,7 +419,7 @@ Modern AI web application for automatic background removal, built with an emphas
 
 <br/>
 
-## 📊&nbsp; GitHub Analytics
+## 📊&nbsp; GitHub Analytics <picture><sub><img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="20px"/></sub></picture>
 
 <div align="center">
 
@@ -396,7 +438,7 @@ Modern AI web application for automatic background removal, built with an emphas
 
 <br/>
 
-## 🐍&nbsp; Contribution Snake
+## 🐍&nbsp; Contribution Snake <picture><sub><img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="20px"/></sub></picture>
 
 <div align="center">
 
@@ -416,7 +458,7 @@ Modern AI web application for automatic background removal, built with an emphas
 
 <br/>
 
-## 📫&nbsp; Connect With Me
+## 📫&nbsp; Connect With Me <picture><sub><img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="20px"/></sub></picture>
 
 <div align="center">
 
