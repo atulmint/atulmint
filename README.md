@@ -37,7 +37,7 @@
 <tr>
 <td width="100%">
 
-Final-year **B.Tech (Instrumentation & Control Engineering)** student at **Netaji Subhas University of Technology (NSUT), Delhi**, focused on **backend engineering**, **full-stack development**, and **production AI systems**.
+Final-year **B.Tech** student at **Netaji Subhas University of Technology (NSUT), Delhi**, focused on **backend engineering**, **full-stack development**, and **production AI systems**.
 
 I build software end-to-end — from database schema to deployed UI — designing APIs, integrating LLMs, and shipping applications that solve real problems instead of staying demos. My work spans authenticated SaaS platforms, multi-provider AI pipelines, and fact-verification systems grounded in live web retrieval.
 
