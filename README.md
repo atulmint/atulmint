@@ -1,9 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d17,50:4c1d95,100:A855F7&height=190&section=header&text=ATUL%20KUMAR&fontSize=52&fontColor=e9d5ff&animation=fadeIn&fontAlignY=45&descAlignY=100" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d17,50:4c1d95,100:A855F7&height=190&section=header&text=ATUL%20KUMAR&fontSize=52&fontColor=e9d5ff&animation=fadeIn&fontAlignY=45&descAlignY=100" width="100%"/> 
+
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=700&color=C084FC&center=true&vCenter=true&width=680&height=40&lines=Software+Engineer_;AI+Engineer_;Full+Stack+Developer_;Backend+Developer_;Building+AI-powered+Products_;Turning+Ideas+Into+Production+Systems_;Open+to+SDE+Opportunities_" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=700&color=C084FC&center=true&vCenter=true&width=680&height=40&lines=Software+Engineer_;AI+Engineer_;Full+Stack+Developer_;Backend+Developer_;Building+AI-powered+Products_;Turning+Ideas+Into+Production+Systems_;Open+to+SDE+Opportunities_" alt="Typing SVG" /> <picture><sub><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="30px"/></sub></picture>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >
+  
 </a>
 
 <br/><br/>
