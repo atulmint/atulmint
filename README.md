@@ -1,134 +1,122 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:4c1d95,100:7c3aed&height=220&section=header&text=ATUL%20KUMAR&fontSize=52&fontColor=e9d5ff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d17,50:4c1d95,100:A855F7&height=220&section=header&text=ATUL%20KUMAR&fontSize=52&fontColor=e9d5ff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+
+<br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+AI-powered+products;Full+Stack+%2B+GenAI+Engineering;Turning+ideas+into+production+systems;Open+to+SDE+%2F+AI+Engineer+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=C084FC&center=true&vCenter=true&width=680&lines=Building+AI-powered+products;Full+Stack+%2B+GenAI+Engineering;Turning+ideas+into+production+systems;Open+to+SDE+%2F+AI+Engineer+roles" alt="Typing SVG" />
 </a>
 
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/atul-kumar-584470272"><img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" /></a>
+<a href="mailto:atulmint1502@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" /></a>
+<a href="https://github.com/atulmint"><img src="https://img.shields.io/badge/GitHub-C084FC?style=for-the-badge&logo=github&logoColor=1a1a2e&labelColor=1a1a2e" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=atulmint&style=for-the-badge&color=A855F7&labelColor=1a1a2e&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/atulmint?style=for-the-badge&color=7C3AED&labelColor=1a1a2e&logo=github&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/stars/atulmint?style=for-the-badge&color=C084FC&labelColor=1a1a2e&logo=github&label=STARS" />
+
+</div>
+
 <br/>
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atul-kumar-584470272)
-[![Email](https://img.shields.io/badge/Email-5b21b6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atulmint1502@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-4c1d95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atulmint)
+<div align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=atulmint&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/atulmint?style=for-the-badge&color=6d28d9&labelColor=1a1a2e&logo=github)
-![Stars](https://img.shields.io/github/stars/atulmint?style=for-the-badge&color=a78bfa&labelColor=1a1a2e&logo=github)
+## 🪐&nbsp; About Me
+
+<table width="100%">
+<tr>
+<td width="100%">
+
+Final-year **B.Tech (Instrumentation & Control Engineering)** student at **Netaji Subhas University of Technology (NSUT), Delhi**, focused on **backend engineering**, **full-stack development**, and **production AI systems**.
+
+I build software end-to-end — from database schema to deployed UI — designing APIs, integrating LLMs, and shipping applications that solve real problems instead of staying demos. My work spans authenticated SaaS platforms, multi-provider AI pipelines, and fact-verification systems grounded in live web retrieval.
+
+**Currently building:**
+&nbsp;&nbsp;&nbsp;→ AI-powered products with production-grade reliability
+&nbsp;&nbsp;&nbsp;→ Multi-provider LLM orchestration (OpenAI · Gemini · Groq)
+&nbsp;&nbsp;&nbsp;→ Full-stack systems with real users, not just prototypes
+
+**Highlights:**
+&nbsp;&nbsp;&nbsp;🏆&nbsp; Winner — Adobe Express Add-ons Hackathon 2026
+&nbsp;&nbsp;&nbsp;💼&nbsp; Full Stack Development Intern, ASSORTS Machine Tools Pvt. Ltd.
+&nbsp;&nbsp;&nbsp;🧭&nbsp; Former Web Development Head, DevComm NSUT
+&nbsp;&nbsp;&nbsp;📜&nbsp; NPTEL Certified — Introduction to Large Language Models
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**Open to:** `Software Engineer` · `Backend Engineer` · `Full Stack Developer` · `AI Engineer`
+
+*"Ship systems that hold up under real conditions — not just the demo."*
 
 </div>
 
 <br/>
 
----
-
-## 🪐 About Me
-
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Software+End-to-End;Backend+%E2%80%A2+Full+Stack+%E2%80%A2+AI+Engineering;Learning+by+Building+Real+Products" />
-
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </div>
-
-I'm a final-year **B.Tech student** at **Netaji Subhas University of Technology (NSUT), Delhi**, with a strong focus on **Software Engineering**, **Backend Development**, and **AI-powered applications**.
-
-Over the last two years, I've been building software from **database schema to browser UI**—designing APIs, developing scalable backend services, integrating AI models, and deploying production-ready applications using modern web technologies.
-
-My engineering interests revolve around building products that solve real problems rather than isolated demos. I enjoy working across the complete development lifecycle, from architecture and implementation to deployment, automation, and continuous improvement.
-
-###  What I'm Building
-
--  **VRIFACTICA** — AI-powered fact verification platform using LLMs and live web retrieval.
--  **SumzAI** — Intelligent document summarization platform with production-ready AI pipelines.
--  **SigmaGPT** — Full-stack AI chat application with authentication and modern web architecture.
--  Production AI workflows using **OpenAI**, **Gemini**, **Groq**, and multi-provider inference pipelines.
-
-###  Experience & Highlights
-
--  **Winner — Adobe Express Add-ons Hackathon 2026**
--  **Full Stack Development Intern** at **ASSORTS Machine Tools Pvt. Ltd.**
--  Former **Web Development Head** at **DevComm, NSUT**
--  **NPTEL Certified** — Introduction to Large Language Models
--  Currently exploring **GitHub Actions, CI/CD, Cloud Infrastructure, and AI Engineering**
-
-### 🛠 Tech I Enjoy Working With
-
-`TypeScript` • `Java` • `Python` • `Next.js` • `React` • `Node.js` • `Express` • `PostgreSQL` • `MongoDB` • `Supabase` • `Docker` • `GitHub Actions`
-
----
-
-<div align="center">
-
-###  Open To
-
-**Software Engineer • Backend Engineer • Full Stack Developer • AI Engineer • New Graduate Opportunities**
-
-*"Build thoughtfully. Ship confidently. Keep improving."*
-
-</div>
-
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-###  Languages
 
 <br/>
+
+## 🧱&nbsp; Tech Stack
+
+<div align="center">
+
+**Languages**
 
 <img src="https://skillicons.dev/icons?i=java,ts,js,python,html,css,sql&theme=dark" />
 
 <br/><br/>
 
-###  Frontend
-
-<br/>
+**Frontend**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux,vite&theme=dark" />
 
 <br/><br/>
 
-###  Backend & APIs
-
-<br/>
+**Backend & APIs**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,prisma&theme=dark" />
 
 <br/><br/>
 
-###  Databases & ORM
-
-<br/>
+**Databases**
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,firebase,redis&theme=dark" />
 
 <br/><br/>
 
-###  Cloud • DevOps • Deployment
-
-<br/>
+**Cloud · DevOps · Deployment**
 
 <img src="https://skillicons.dev/icons?i=docker,cloudflare,vercel,githubactions,git,github,linux&theme=dark" />
 
 <br/><br/>
 
-###  Developer Tools
-
-<br/>
+**Developer Tools**
 
 <img src="https://skillicons.dev/icons?i=vscode,postman,npm,bash&theme=dark" />
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-|  **Software Engineering** |  **AI Engineering** |  **Deployment** |
-|:---------------------------:|:---------------------:|:-----------------:|
+| 🧩&nbsp; **Software Engineering** | 🤖&nbsp; **AI Engineering** | ☁️&nbsp; **Deployment** |
+|:---|:---|:---|
 | Full Stack Development | LLM Integration | Docker |
 | REST APIs | Prompt Engineering | GitHub Actions |
 | Authentication | RAG Pipelines | Vercel |
@@ -137,320 +125,315 @@ My engineering interests revolve around building products that solve real proble
 
 </div>
 
----
+<br/>
 
-## 🤖 AI & Machine Learning
+<div align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
+
+<br/>
+
+## 🤖&nbsp; AI / ML Engineering Matrix
 
 <div align="center">
 
-| **Domain** | **Experience** | **Technologies & Implementation** |
-|:-----------|:---------------|:----------------------------------|
-|  **Large Language Models** | Multi-provider inference & orchestration | OpenAI • Google Gemini • Groq (Llama 3.x) • Provider fallback architecture |
-|  **RAG & Knowledge Retrieval** | Grounded AI applications | Tavily Search • PDF parsing • Claim extraction • Source-cited responses |
-|  **Prompt Engineering** | Structured AI workflows | JSON schema prompting • Function-style outputs • Context engineering • Prompt optimization |
-|  **AI Agents** | Agentic workflows | Multi-step reasoning • Tool calling • AI pipeline orchestration |
-|  **Backend AI Systems** | Production AI APIs | REST APIs • Streaming responses • Concurrent request handling • Background processing |
-|  **Document Intelligence** | AI document processing | PDF ingestion • Chunking • Summarization • Fact verification |
-|  **Performance & Reliability** | Scalable inference pipelines | Async processing • Retry strategies • Concurrency control • Provider failover |
-|  **Deployment & Integration** | End-to-end AI products | Next.js • Node.js • Supabase • Cloudflare • Vercel |
+| Domain | Experience | Technologies & Implementation |
+|:---|:---|:---|
+| **Large Language Models** | Multi-provider inference & orchestration | OpenAI · Google Gemini · Groq (Llama 3.x) · Provider fallback architecture |
+| **RAG & Knowledge Retrieval** | Grounded AI applications | Tavily Search · PDF parsing · Claim extraction · Source-cited responses |
+| **Prompt Engineering** | Structured AI workflows | JSON schema prompting · Function-style outputs · Context engineering |
+| **AI Agents** | Agentic workflows | Multi-step reasoning · Tool calling · Pipeline orchestration |
+| **Backend AI Systems** | Production AI APIs | REST APIs · Streaming responses · Concurrent request handling |
+| **Document Intelligence** | AI document processing | PDF ingestion · Chunking · Summarization · Fact verification |
+| **Performance & Reliability** | Scalable inference pipelines | Async processing · Retry strategies · Provider failover |
+| **Deployment & Integration** | End-to-end AI products | Next.js · Node.js · Supabase · Cloudflare · Vercel |
+
+**Applied in:** `VRIFACTICA` · `SumzAI` · `SigmaGPT` · `Brain Tumor Detection (CNN · VGG16 · ResNet50 · DenseNet)`
 
 </div>
 
-> **Projects:** **VRIFACTICA** • **SumzAI** • **SigmaGPT** • **Brain Tumor Detection (CNN, VGG16, ResNet50, DenseNet)**
+<br/>
 
----
-
-# 🚀Featured Projects
-
-<details open>
-<summary><b>VRIFACTICA — AI-Powered Fact Verification Platform</b></summary>
+<div align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
 
 <br/>
 
-Production-ready AI platform that extracts factual claims from PDF documents, verifies them against live web sources, and generates evidence-backed reports using a multi-provider LLM pipeline.
+## 💼&nbsp; Experience
 
-| Category | Details |
-|:---------|:--------|
-| **Tech Stack** | TanStack Start · TypeScript · Node.js · Supabase · Google Gemini · Tavily API · Cloudflare · Vercel |
-| **Key Features** | PDF ingestion · Claim extraction · Live web retrieval · AI verification · Streaming progress · Source-backed verdicts |
-| **Architecture** | Multi-provider LLM orchestration · Concurrency control · Retry strategies · Server-side verification pipeline |
-| **Engineering Focus** | AI Engineering · Backend Systems · RAG · REST APIs · Production Deployment |
-| **Live Demo** | https://vrifactica.vercel.app/ |
-| **Repository** | https://github.com/atulmint/Vrifactica |
+<table width="100%">
+<tr><td>
 
-Designed to combat AI hallucinations by grounding model outputs with live web evidence, VRIFACTICA demonstrates production-oriented AI engineering through reliable inference pipelines, scalable backend architecture, and asynchronous document processing.
+**Full Stack Development Intern** · ASSORTS Machine Tools Pvt. Ltd.
+`June 2025 – August 2025` &nbsp;|&nbsp; New Delhi, India · Hybrid
 
-</details>
+Worked on production web applications by developing backend services, integrating databases, and shipping frontend features alongside experienced engineers in an agile environment.
 
----
+- Developed and tested RESTful APIs powering production application features
+- Integrated relational databases with backend services for scalable data management
+- Built responsive frontend components using HTML, CSS, and JavaScript
+- Collaborated with engineers to debug production issues and improve reliability
 
-<details>
-<summary><b>SumzAI — AI Document Intelligence Platform</b></summary>
+**Stack:** `JavaScript` `Node.js` `REST APIs` `SQL` `Git` `HTML` `CSS`
 
-<br/>
+</td></tr>
+</table>
 
-AI-powered SaaS application that transforms long-form PDF documents into structured, concise summaries using modern LLM workflows and a complete full-stack architecture.
+<table width="100%">
+<tr><td>
 
-| Category | Details |
-|:---------|:--------|
-| **Tech Stack** | Next.js · TypeScript · Node.js · PostgreSQL · Clerk · Stripe · OpenAI · Gemini |
-| **Key Features** | Authentication · PDF upload · Chunk processing · AI summarization · Subscription management |
-| **Engineering Focus** | Full Stack Development · AI Integration · SaaS Architecture |
-| **Live Demo** | https://sumz-ai-ki7p.vercel.app/ |
-| **Repository** | Private / Academic Project |
+**DevComm — Technical Society, NSUT**
+`December 2022 – May 2025` &nbsp;|&nbsp; Delhi, India · Hybrid
 
-Built as a production-style SaaS application featuring authentication, document processing, payment integration, and scalable AI workflows from ingestion to summary generation.
+| Position | Duration |
+|:---|:---|
+| Web Development Head | Aug 2024 – May 2025 |
+| Junior Counselor | Sep 2023 – Jul 2024 |
+| Member | Dec 2022 – Aug 2023 |
 
-</details>
+- Led the Web Development team and coordinated technical initiatives
+- Mentored junior members in frontend development, Git, and collaboration
+- Organized technical workshops, coding sessions, and community events
+- Worked cross-functionally with student teams on internal platforms
 
----
+**Focus:** `Leadership` `Web Development` `Mentorship` `Community Building`
 
-<details>
-<summary><b>Law Publishing House — Knowledge Hub Platform</b></summary>
-
-<br/>
-
-A modern digital publishing platform developed for Bihar Government law publications, departmental examinations, administrative manuals, and educational resources with bilingual content support.
-
-| Category | Details |
-|:---------|:--------|
-| **Tech Stack** | Next.js 14 · TypeScript · Tailwind CSS · Google Apps Script · Vercel |
-| **Key Features** | Dynamic book catalog · Category filtering · Admin dashboard · Interactive enquiry forms · Bilingual content |
-| **Engineering Focus** | Full Stack Development · CMS Architecture · Responsive UI/UX |
-| **Live Demo** | https://law-publishing-house.vercel.app/ |
-| **Repository** | https://github.com/atulmint/Law-Publishing-House- |
-
-Developed a production-ready publishing platform with responsive design, integrated enquiry workflows, premium UI components, and scalable content management for educational publications.
-
-</details>
-
----
-
-<details>
-<summary><b>BGGone AI Studio — AI Background Removal Application</b></summary>
+</td></tr>
+</table>
 
 <br/>
 
-Modern AI-powered web application for automatically removing image backgrounds with a responsive interface and streamlined user workflow.
-
-| Category | Details |
-|:---------|:--------|
-| **Tech Stack** | React · TypeScript · Vite · Tailwind CSS · shadcn/ui |
-| **Key Features** | AI background removal · Image upload · Instant preview · Responsive interface |
-| **Engineering Focus** | Frontend Engineering · AI Integration · Modern UI Development |
-| **Live Demo** | https://bggone-ai-studio.vercel.app/ |
-| **Repository** | https://github.com/atulmint/bggone-ai-studio |
-
-Built as a modern AI web application emphasizing intuitive user experience, responsive design, and seamless AI-powered image processing.
-
-</details>
-
----
-
-<details>
-<summary><b>Caption Express Agent — Adobe Express Add-on</b></summary>
+<div align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
 
 <br/>
 
-AI-powered Adobe Express Add-on developed during the Adobe Express Add-ons Hackathon to streamline content creation workflows.
+## 🚀&nbsp; Featured Projects
 
-| Category | Details |
-|:---------|:--------|
-| **Tech Stack** | TypeScript · Adobe Express SDK · AI APIs |
-| **Achievement** | Winner — Adobe Express Add-ons Hackathon |
-| **Engineering Focus** | AI Automation · Product Development · Browser Extensions |
-| **Repository** | https://github.com/atulmint/Caption-Express-Agent |
+<table width="100%">
+<tr><td>
 
-Designed and implemented a production-ready Adobe Express Add-on within a 24-hour engineering sprint, transforming an idea into a working product presented to Adobe engineers.
+### VRIFACTICA — AI-Powered Fact Verification Platform
 
-</details>
+Production-ready platform that extracts factual claims from PDF documents, verifies them against live web sources, and generates evidence-backed reports through a multi-provider LLM pipeline — built to combat AI hallucination by grounding outputs in real evidence.
 
----
+| | |
+|:---|:---|
+| **Stack** | TanStack Start · TypeScript · Node.js · Supabase · Gemini · Tavily · Cloudflare · Vercel |
+| **Features** | PDF ingestion · Claim extraction · Live web retrieval · Streaming progress · Source-backed verdicts |
+| **Architecture** | Multi-provider LLM orchestration · Concurrency control · Retry strategies |
+| **Live** | [vrifactica.vercel.app](https://vrifactica.vercel.app/) |
+| **Repo** | [github.com/atulmint/Vrifactica](https://github.com/atulmint/Vrifactica) |
+
+</td></tr>
+</table>
+
+<table width="100%">
+<tr><td>
+
+### SumzAI — AI Document Intelligence Platform
+
+Production-style SaaS application that transforms long-form PDF documents into structured summaries using modern LLM workflows, complete with authentication and subscription billing.
+
+| | |
+|:---|:---|
+| **Stack** | Next.js · TypeScript · Node.js · PostgreSQL · Clerk · Stripe · OpenAI · Gemini |
+| **Features** | Authentication · PDF upload · Chunk processing · AI summarization · Subscriptions |
+| **Live** | [sumz-ai-ki7p.vercel.app](https://sumz-ai-ki7p.vercel.app/) |
+| **Repo** | Private / Academic Project |
+
+</td></tr>
+</table>
+
+<table width="100%">
+<tr><td>
+
+### Law Publishing House — Knowledge Hub Platform
+
+Digital publishing platform built for Bihar Government law publications, departmental exams, and administrative manuals, with bilingual content support.
+
+| | |
+|:---|:---|
+| **Stack** | Next.js 14 · TypeScript · Tailwind CSS · Google Apps Script · Vercel |
+| **Features** | Dynamic book catalog · Category filtering · Admin dashboard · Enquiry workflows |
+| **Live** | [law-publishing-house.vercel.app](https://law-publishing-house.vercel.app/) |
+| **Repo** | [github.com/atulmint/Law-Publishing-House-](https://github.com/atulmint/Law-Publishing-House-) |
+
+</td></tr>
+</table>
+
+<table width="100%">
+<tr><td>
+
+### BGGone AI Studio — AI Background Removal Application
+
+Modern AI web application for automatic background removal, built with an emphasis on responsive UI and instant feedback.
+
+| | |
+|:---|:---|
+| **Stack** | React · TypeScript · Vite · Tailwind CSS · shadcn/ui |
+| **Features** | AI background removal · Image upload · Instant preview |
+| **Live** | [bggone-ai-studio.vercel.app](https://bggone-ai-studio.vercel.app/) |
+| **Repo** | [github.com/atulmint/bggone-ai-studio](https://github.com/atulmint/bggone-ai-studio) |
+
+</td></tr>
+</table>
+
+<table width="100%">
+<tr><td>
+
+### Caption Express Agent — Adobe Express Add-on
+
+🏆 **Winner — Adobe Express Add-ons Hackathon.** AI-powered Adobe Express Add-on built in a 24-hour engineering sprint, taken from concept to a working product presented to Adobe engineers.
+
+| | |
+|:---|:---|
+| **Stack** | TypeScript · Adobe Express SDK · AI APIs |
+| **Repo** | [github.com/atulmint/Caption-Express-Agent](https://github.com/atulmint/Caption-Express-Agent) |
+
+</td></tr>
+</table>
 
 <details>
 <summary><b>Additional Projects</b></summary>
+<br/>
 
 | Project | Description | Repository |
-|:--------|:------------|:-----------|
-| **SigmaGPT** | Full-stack conversational AI application featuring authentication, persistent chat history, and LLM-powered interactions. | Private |
-| **Brain Tumor Detection** | Deep learning project comparing CNN, VGG16, ResNet50, DenseNet, and EfficientNet architectures for MRI-based brain tumor classification. | Academic |
-| **ASSIGN_E-COMM** | Full-stack e-commerce application with authentication, product catalog, shopping cart, and checkout workflows. | https://github.com/atulmint/ASSIGN_E-COMM |
-| **Gallery Project** | Responsive image gallery demonstrating dynamic layouts, reusable UI components, and modern frontend practices. | https://github.com/atulmint/Gallery-Project |
-| **Notes App** | CRUD-based note management application with persistent storage and responsive user interface. | https://github.com/atulmint/Notes-App-Project |
+|:---|:---|:---|
+| **SigmaGPT** | Full-stack conversational AI app with auth and persistent chat history | Private |
+| **Brain Tumor Detection** | CNN, VGG16, ResNet50, DenseNet, EfficientNet compared for MRI classification | Academic |
+| **ASSIGN_E-COMM** | Full-stack e-commerce app with auth, catalog, cart, checkout | [Repo](https://github.com/atulmint/ASSIGN_E-COMM) |
+| **Gallery Project** | Responsive image gallery with reusable UI components | [Repo](https://github.com/atulmint/Gallery-Project) |
+| **Notes App** | CRUD note management app with persistent storage | [Repo](https://github.com/atulmint/Notes-App-Project) |
 
 </details>
-
----
-
-# 💼Experience
-
-<details open>
-<summary><b>Full Stack Development Intern • ASSORTS Machine Tools Pvt. Ltd.</b></summary>
 
 <br/>
 
-**June 2025 – August 2025**  
-*New Delhi, India • Hybrid*
-
-Worked on production web applications by developing backend services, integrating databases, and implementing frontend features while collaborating with experienced engineers in an agile development environment.
-
-| Area | Details |
-|:-----|:--------|
-| **Role** | Full Stack Development Intern |
-| **Focus** | Backend Development · REST APIs · Database Integration |
-| **Environment** | Production Applications · Agile Development · Team Collaboration |
-
-### Responsibilities
-
-- Developed and tested RESTful APIs powering production application features.
-- Integrated relational databases with backend services for scalable data management.
-- Built responsive frontend components using HTML, CSS, and JavaScript.
-- Collaborated with engineers to debug production issues, improve performance, and enhance application reliability.
-- Gained practical experience with modern software development workflows, version control, and deployment practices.
-
-**Technologies**
-
-`JavaScript` • `Node.js` • `REST APIs` • `SQL` • `Git` • `HTML` • `CSS`
-
-</details>
-
----
-
-<details open>
-<summary><b>DevComm — Technical Society, Netaji Subhas University of Technology (NSUT)</b></summary>
+<div align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
 
 <br/>
 
-**December 2022 – May 2025**  
-*Delhi, India • Hybrid*
-
-Progressed through multiple leadership roles in **DevComm**, the official technical and developer community at NSUT, contributing to technical initiatives, mentoring students, and organizing developer-focused events.
-
-| Position | Duration |
-|:---------|:---------|
-| **Web Development Head** | Aug 2024 – May 2025 |
-| **Junior Counselor** | Sep 2023 – Jul 2024 |
-| **Member** | Dec 2022 – Aug 2023 |
-
-### Contributions
-
-- Led the Web Development team and coordinated technical initiatives within the society.
-- Mentored junior members in frontend development, Git, and collaborative software development.
-- Contributed to organizing technical workshops, coding sessions, and community events.
-- Worked closely with cross-functional student teams on web development projects and internal platforms.
-- Promoted engineering best practices, collaboration, and knowledge sharing across the community.
-
-**Focus Areas**
-
-`Leadership` • `Web Development` • `Mentorship` • `Community Building` • `Team Collaboration`
-
-</details>
-
----
----
-
----
-
-# 🏆 Achievements
+## 🏆&nbsp; Achievements
 
 <div align="center">
 
 | Recognition | Description | Credential |
-|:------------|:------------|:-----------|
-| **Winner — Adobe Express Add-ons for Enterprise Hackathon** | Led the development of **Caption Express Agent**, an AI-powered Adobe Express Add-on, during Adobe's first 24-hour Enterprise Hackathon at NSUT, delivering a production-ready solution from concept to demo. | **[View Certificate](https://drive.google.com/file/d/1hNPIFScHpDFh2igPw9IZTQtFU2T-R9Te/view)** |
-| **Full Stack Development Intern** | Contributed to production software development at **ASSORTS Machine Tools**, building REST APIs, integrating relational databases, and developing full-stack web application features. | **Professional Experience** |
-| **Web Development Head — DevComm, NSUT** | Progressed through multiple leadership roles within NSUT's technical society, mentoring developers, leading web initiatives, and organizing technical activities across the community. | **Leadership Experience** |
-| **AI & Software Engineering Projects** | Designed and developed production-ready applications including **VRIFACTICA**, **SumzAI**, **Law Publishing House**, **BGGone AI Studio**, and **Caption Express Agent**. | **Featured Projects** |
+|:---|:---|:---|
+| **Winner — Adobe Express Add-ons for Enterprise Hackathon** | Led development of Caption Express Agent during Adobe's first 24-hour Enterprise Hackathon at NSUT, delivering a production-ready solution from concept to demo | [View Certificate](https://drive.google.com/file/d/1hNPIFScHpDFh2igPw9IZTQtFU2T-R9Te/view) |
+| **Full Stack Development Intern** | Contributed to production software at ASSORTS Machine Tools — REST APIs, database integration, full-stack features | Professional Experience |
+| **Web Development Head — DevComm, NSUT** | Progressed through leadership roles, mentoring developers and leading web initiatives | Leadership Experience |
+| **AI & Software Engineering Projects** | Designed and shipped VRIFACTICA, SumzAI, Law Publishing House, BGGone AI Studio, Caption Express Agent | Featured Projects |
 
 </div>
 
----
+<br/>
 
-# 📜 Certifications
+<div align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
+
+<br/>
+
+## 📜&nbsp; Certifications
 
 <div align="center">
 
-| Certification | Provider | Credential |
-|:--------------|:---------|:-----------|
-| **Introduction to Large Language Models (LLMs)** | NPTEL | **[View Certificate](https://drive.google.com/file/d/16HY5S1lajiOM4fyT8Sf90LJQLRvOmVGy/view?usp=sharing)** |
-| **Affective Computing** | NPTEL | **[View Certificate](https://drive.google.com/file/d/1JDqQaT3G6_xOjwObjC-TKkT_GOrt5zIs/view?usp=sharing)** |
-| **Introduction to Internet of Things** | NPTEL | **[View Certificate](https://drive.google.com/file/d/1bxZAhC4AuhU1n99foKlVI_dlg62SWA2_/view?usp=sharing)** |
-| **Complete SQL & Databases Bootcamp** | Udemy | **[View Certificate](https://www.udemy.com/certificate/UC-06b75730-452d-4d38-b0f6-c0ac797b4027/)** |
-| **Alpha – Data Structures & Algorithms with Java** | Apna College | **Completed** |
-| **Adobe Express Add-ons for Enterprise Hackathon** | Adobe | **[Winner Certificate](https://drive.google.com/file/d/1hNPIFScHpDFh2igPw9IZTQtFU2T-R9Te/view)** |
+**NPTEL**
+
+[![LLMs](https://img.shields.io/badge/Introduction%20to%20LLMs-A855F7?style=for-the-badge&labelColor=1a1a2e)](https://drive.google.com/file/d/16HY5S1lajiOM4fyT8Sf90LJQLRvOmVGy/view?usp=sharing)
+[![Affective Computing](https://img.shields.io/badge/Affective%20Computing-7C3AED?style=for-the-badge&labelColor=1a1a2e)](https://drive.google.com/file/d/1JDqQaT3G6_xOjwObjC-TKkT_GOrt5zIs/view?usp=sharing)
+[![IoT](https://img.shields.io/badge/Intro%20to%20IoT-C084FC?style=for-the-badge&labelColor=1a1a2e)](https://drive.google.com/file/d/1bxZAhC4AuhU1n99foKlVI_dlg62SWA2_/view?usp=sharing)
+
+<br/>
+
+**Udemy**
+
+[![SQL Bootcamp](https://img.shields.io/badge/Complete%20SQL%20%26%20Databases%20Bootcamp-A855F7?style=for-the-badge&labelColor=1a1a2e)](https://www.udemy.com/certificate/UC-06b75730-452d-4d38-b0f6-c0ac797b4027/)
+
+<br/>
+
+**Apna College**
+
+![DSA](https://img.shields.io/badge/Alpha%20—%20DSA%20with%20Java-7C3AED?style=for-the-badge&labelColor=1a1a2e)
+
+<br/>
+
+**Adobe**
+
+[![Adobe Hackathon](https://img.shields.io/badge/🏆%20Adobe%20Express%20Add--ons%20Hackathon%20Winner-C084FC?style=for-the-badge&labelColor=1a1a2e)](https://drive.google.com/file/d/1hNPIFScHpDFh2igPw9IZTQtFU2T-R9Te/view)
 
 </div>
 
+<br/>
 
+<div align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
 
-## 📊 GitHub Analytics
+<br/>
+
+## 📊&nbsp; GitHub Analytics
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=atulmint&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
-
 <img height="170" src="https://streak-stats.demolab.com?user=atulmint&theme=github-dark-blue&hide_border=true"/>
 
-<br/>
+<br/><br/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulmint&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
 
-</div>
-
-
-
-## 📈 Contribution Activity
-
-<div align="center">
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=atulmint&theme=react-dark&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=e9d5ff" width="100%"/>
 
 </div>
 
----
+<br/>
 
-
-## 🐍 Contribution Snake
+## 🐍&nbsp; Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/atulmint/atulmint/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/atulmint/atulmint/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/atulmint/atulmint/output/github-contribution-grid-snake-dark.svg"
-    width="100%"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atulmint/atulmint/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atulmint/atulmint/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/atulmint/atulmint/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
 
-
-
-## 📫 Connect With Me
+<br/>
 
 <div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-5b21b6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atulmint1502@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atul-kumar-584470272)
-[![GitHub](https://img.shields.io/badge/GitHub-4c1d95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atulmint)
-
-
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </div>
 
----
+<br/>
+
+## 📫&nbsp; Connect With Me
 
 <div align="center">
 
-*"Ship systems that hold up under real conditions — not just the demo."*
+[![Gmail](https://img.shields.io/badge/Gmail-A855F7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:atulmint1502@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/atul-kumar-584470272)
+[![GitHub](https://img.shields.io/badge/GitHub-C084FC?style=for-the-badge&logo=github&logoColor=1a1a2e&labelColor=1a1a2e)](https://github.com/atulmint)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4c1d95,100:1a1a2e&height=120&section=footer" width="100%"/>
+<br/><br/>
+
+**Thanks for visiting.**
+
+*Always learning.*
+*Always building.*
+*Always shipping.*
+
+<img src="https://komarev.com/ghpvc/?username=atulmint&style=for-the-badge&color=A855F7&labelColor=1a1a2e&label=PROFILE+VIEWS" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:4c1d95,100:0d0d17&height=120&section=footer" width="100%"/>
 
 </div>
